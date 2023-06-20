@@ -1,0 +1,304 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+}
+
+
+
+.n::after{
+    content: "*";
+    color:red;
+    font-size: 20px;
+    
+    
+}
+.n{
+    font-size: 15px;
+    padding: 10px;
+}
+.in1{
+    padding: 5px;
+    margin: 10px;
+    padding-left: 5px;
+    width: 30%;
+}
+.in2{
+    padding: 5px;
+    margin: 5px;
+    padding-left:5px;
+    width: 30%;
+}
+.e::after{
+    content: "*";
+    color:red;
+    font-size: 15px;
+}
+.e{
+    font-size: 15px;
+    margin-left: 10px; 
+ }
+
+.in3{
+    padding: 5px;
+    margin: 10px;
+    padding-left: 5px;
+    width: 61.5%;
+}
+.exp::after{
+    content: "*";
+    color:red;
+    font-size: 15px;
+}
+.exp{
+    font-size: 15px;
+    margin-left: 10px;  
+}
+.radio-icon{
+    padding-top: 5px;
+    padding-left:  10px;
+    justify-content: space-around;
+}
+.creview{
+    padding: 10px;
+    margin-top: 5px;
+}
+.sati::after{
+    content: "*";
+    color:red;
+    font-size: 15px;
+}
+.sati{
+    font-size: 15px;
+    padding-top:5px; 
+    margin-left: 10px;
+}
+.vs{
+    margin-left: 300px;
+}
+.s{
+    margin-left: 165px;
+}
+.ne{
+    margin-left: 165px;
+}
+.us{
+margin-left: 165px;
+}
+.vus{
+margin-left: 165px;
+}
+.nav1{
+     margin: 10px;
+    background-color: rgb(207, 198, 198);
+    border:1px solid blanchedalmond;
+    height: 30px;
+    border-radius: 5px;
+}
+.p{
+    margin-top: 7px;
+    font-size: 15px;
+}
+#r1{
+    margin-left: 270px;
+    font-size: 30px;
+}
+#r2{
+    margin-left: 220px;
+}
+#r3{
+    margin-left: 220px;
+}
+#r4{
+    margin-left: 220px;
+}
+#r5{
+    margin-left: 220px;
+}
+.nav2{
+    margin: 10px;
+   background-color:  whitesmoke;
+   border:1px solid  whitesmoke;
+   height: 30px;
+   border-radius: 5px;
+}
+.se{
+    margin-top: 7px;
+    font-size: 15px;
+}
+#b1{
+    margin-left: 279px;
+    font-size: 30px;
+}
+#b2{
+    margin-left: 220px;
+}
+#b3{
+    margin-left: 220px;
+}
+#b4{
+    margin-left: 220px;
+}
+#b5{
+    margin-left: 220px;
+}
+.nav3{
+    margin: 10px;
+   background-color: rgb(207, 198, 198);
+   border:1px solid blanchedalmond;
+   height: 30px;
+   border-radius: 5px;
+}
+.oc{
+    margin-top: 7px;
+    font-size: 15px;
+}
+#c1{
+    margin-left: 221px;
+    font-size: 30px;
+}
+#c2{
+    margin-left: 220px;
+}
+#c3{
+    margin-left: 220px;
+}
+#c4{
+    margin-left: 220px;
+}
+#c5{
+    margin-left: 220px;
+}
+
+.hl::after{
+    content: "*";
+    color:red;
+    font-size: 15px;
+}
+.hl{
+    font-size: 15px;
+    padding-top: 5px; 
+    margin-left: 10px;
+}
+.vl{
+    margin-left: 310px;
+}
+.l{
+    margin-left: 185px;
+}
+.neu{
+    margin-left: 185px;
+}
+.ul{
+margin-left: 165px;
+}
+.vul{
+margin-left: 175px;
+}
+.nav4{
+     margin: 10px;
+    background-color: rgb(207, 198, 198);
+    border:1px solid blanchedalmond;
+    height: 30px;
+    border-radius: 5px;
+}
+.bfa{
+    margin-top: 7px;
+    font-size: 15px;
+}
+#d1{
+    margin-left: 212px;
+    font-size: 30px;
+}
+#d2{
+    margin-left: 220px;
+}
+#d3{
+    margin-left: 220px;
+}
+#d4{
+    margin-left: 220px;
+}
+#d5{
+    margin-left: 220px;
+}
+.nav5{
+    margin: 10px;
+   background-color: whitesmoke;
+   border:1px solid whitesmoke;
+   height: 30px;
+   border-radius: 5px;
+}
+.rop{
+    margin-top: 7px;
+    font-size: 15px;
+}
+#e1{
+    margin-left: 173px;
+    font-size: 30px;
+}
+#e2{
+    margin-left: 220px;
+}
+#e3{
+    margin-left: 220px;
+}
+#e4{
+    margin-left: 220px;
+}
+#e5{
+    margin-left: 220px;
+}
+
+.nav6{
+    margin: 10px;
+   background-color: rgb(207, 198, 198);
+   border:1px solid blanchedalmond;
+   height: 30px;
+   border-radius: 5px;
+}
+.roc{
+    margin-top: 7px;
+    font-size: 15px;
+}
+#f1{
+    margin-left: 165px;
+    font-size: 30px;
+}
+#f2{
+    margin-left: 220px;
+}
+#f3{
+    margin-left: 220px;
+}
+#f4{
+    margin-left: 220px;
+}
+#f5{
+    margin-left: 219px;
+}
+
+.acs::after{
+    content: "*";
+    color:red;
+    font-size: 15px;
+}
+.acs{
+    font-size: 15px;
+    padding-top: 5px; 
+    margin-left: 10px;
+}
+
+.dec{
+    padding: 0px;
+    margin: 10px;
+    padding-left: 5px;
+    width: 98.5%; 
+    height:100px; 
+    border-color: black; 
+    border-radius: 5px;
+}
+.sub{
+    padding: 10px;
+    margin: 10px; 
+}
